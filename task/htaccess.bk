@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Authorized access only!"
+AuthUserFile /Users/yangsun/Documents/GitHub/website/task/.htpasswd
+Require valid-user
